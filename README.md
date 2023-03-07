@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @vm-rivii
-- 👀 I’m interested in ... art, music, linguistics, video games, computers
-- 🌱 I’m currently learning ... Javascript, Python
-- 💞️ I’m looking to collaborate on ... N/A
-- 📫 How to reach me ... N/A
+Hello! I’m Vanessa! I have a Linguistics B.A. from CSU Northridge. During my time there, I took some computer science courses and a computational linguistics course. I’m interested in linguistics, computers, art, and video games. I’m currently learning Javascript and Python. I'm looking to continue my coding journey and add projects as I go. Reach me at vn.murillo@outlook.com!
 
 <!---
 vm-rivii/vm-rivii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
