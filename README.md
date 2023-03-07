@@ -1,4 +1,4 @@
-Hello! I’m Vanessa! I have a Linguistics B.A. from CSU Northridge. During my time there, I took some computer science courses and a computational linguistics course. I’m interested in linguistics, computers, art, and video games. I’m currently learning Javascript and Python. I'm looking to continue my coding journey and add projects as I go. Reach me at vn.murillo@outlook.com!
+Hello! I’m Vanessa! I have a Linguistics B.A. from CSU Northridge. As I learned about how complex human languages can be, I thought it must be even more difficult to teach machines about all of the nuances that are present in our day to day speech. This piqued my interest in programming languages. I’m currently learning Javascript, Python, and R. I'm looking to continue my coding journey and add projects as I go. Reach me at vn.murillo@outlook.com!
 
 <!---
 vm-rivii/vm-rivii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
